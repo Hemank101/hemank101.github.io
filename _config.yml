@@ -11,7 +11,7 @@ state: MI
 zip_code: 48197
 country: United States of America
 
-icon: fa-diamond # Font Awesome class for your site's icon
+icon: fa-keyboard-o # Font Awesome class for your site's icon
 
 # Social settings
 facebook_url:
