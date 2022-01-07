@@ -1,7 +1,7 @@
 # Site settings
 title: Hemanth Koralla
 email: hemanth.koralla@gmail.com
-description: 
+description: Software Developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -14,8 +14,8 @@ country: United States of America
 icon: fa-keyboard-o # Font Awesome class for your site's icon
 
 # Social settings
-facebook_url:
-github_url:
+facebook_url: https://www.facebook.com/hemanth.koralla
+github_url: https://github.com/Hemank101
 gitlab_url: 
 googleplus_url: 
 instagram_url: https://www.instagram.com/hemanthk101/
