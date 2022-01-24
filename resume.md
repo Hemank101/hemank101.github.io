@@ -1,5 +1,5 @@
 ---
 title: resume
-layout: resume
+layout: default
 ---
-<a href="assets/resume.pdf">Download My Resume Here</a>
+<a href="assets/resume.pdf">Download my resume here</a>
