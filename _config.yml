@@ -3,7 +3,7 @@ title: Hemanth Koralla
 email: hemanth.koralla@gmail.com
 description: Software Developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://hemanthkoralla.com" # the base hostname & protocol for your site
 author:
 street_address: 
 city: Ann Arbor
