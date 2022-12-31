@@ -4,8 +4,8 @@ image: headshot.jpeg
 layout: default
 ---
 
-Hi there! My name is Hemanth Koralla (hey-month koral-LA). I am a software developer from Ypsilanti, MI working on a new hands-free driver assistance system called Ultra Cruise at General Motors. I have a passion for healthcare robotics, autonomous vehicles, and advanced computing
-topics. I am looking to build a career where I can create a positive social impact through computer science and robotics.
+Hi there! My name is Hemanth Koralla (hey-month koralla) and I'm a software developer from Houston, Texas working to develop the next generation of human space flight. As a contractor at the Johnson Space Center, I am working to develop the software for humanity's first lunar based based station called [Gateway](https://www.nasa.gov/gateway/overview).
+I have a passion for space systems, healthcare robotics, autonomous vehicles, and advanced computing topics. I am looking to build a career where I can create a positive social impact through computer science and robotics.
 
 * * *
 
